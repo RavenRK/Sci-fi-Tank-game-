@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/unreal 5/Mechanics/Content/StartMap.umap",
+				"C:/unreal 5/Mechanics/Content/StudentWork/BP_Asset/BP_Light.uasset",
+				"C:/unreal 5/Mechanics/Content/StudentWork/BP_Asset/BP_Box.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/MechGameMode.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/IA_Move.uasset",
 				"C:/Unreal Projects/Mechanics/Content/Blueprints/NewInputMappingContext.uasset",
