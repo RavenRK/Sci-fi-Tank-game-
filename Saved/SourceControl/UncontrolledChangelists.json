@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/j017628o/Documents/GitHub/Mechanics/Content/StudentWork/BP_Projectiles.uasset",
+				"C:/Users/j017628o/Documents/GitHub/Mechanics/Content/StartMap.umap",
+				"C:/Users/j017628o/Documents/GitHub/Mechanics/Content/Meshes/SciFi/Rock_01.uasset",
+				"C:/Users/j017628o/Documents/GitHub/Mechanics/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"C:/Users/j017628o/Documents/GitHub/Mechanics/Content/StudentWork/BP_ProTes.uasset",
+				"C:/Users/j017628o/Documents/GitHub/Mechanics/Content/Blueprints/Weapons/BP_Starter_Weapon.uasset",
+				"C:/Users/j017628o/Documents/GitHub/Mechanics/Content/StudentWork/BP_Target.uasset",
 				"C:/unreal 5/Mechanics/Content/StartMap.umap",
 				"C:/unreal 5/Mechanics/Content/StudentWork/BP_Asset/BP_Light.uasset",
 				"C:/unreal 5/Mechanics/Content/StudentWork/BP_Asset/BP_Box.uasset",
